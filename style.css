@@ -33,6 +33,7 @@
 
 /* hero section start */
 
+
 .banner-container {
     height: 90vh;
     display: flex;
@@ -72,9 +73,11 @@
     margin: 18px 0;
 }
 
+
 /* hero section end */
 
 /* featured section start */
+
 
 .featured {
     width: 75%;
@@ -95,6 +98,20 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
+}
+
+.featured .flower {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flower p {
+    margin-top: 20px;
+    color: #272727;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration-line: underline;
 }
 
 .featured-box .box1 {
@@ -124,9 +141,44 @@
     justify-content: space-between;
 }
 
+
 /* featured section end */
 
+/* service section start */
+
+
+.services-container {
+    width: 75%;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px auto;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+
+.services img {
+    width: 80px;
+    margin-bottom: 10px;
+}
+
+.support p {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.support {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 /* offer section start */
+
 
 .offer-container {
     background-color: rgba(229, 84, 115, 0.05);
@@ -150,9 +202,11 @@ span {
     color: #E55473;
 }
 
+
 /* offer section end */
 
 /* instagram section start */
+
 
 .instagram {
     width: 75%;
@@ -195,9 +249,11 @@ span {
     background-size: cover;
 }
 
+
 /* instagram section end */
 
 /* deals section start */
+
 
 .deals-content {
     width: 75%;
@@ -209,6 +265,7 @@ span {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border-radius: 5px;
 }
 
 .deals-form input {
@@ -225,9 +282,11 @@ span {
     justify-content: center;
 }
 
+
 /* deals section end */
 
 /* footer section star */
+
 
 .footer-container {
     width: 100%;
