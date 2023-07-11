@@ -230,22 +230,22 @@ span {
 }
 
 .instagram .box-1 {
-    background-image: url("../flower-shop-resources/Flower Asset/Flower 01.png");
+    background-image: url("Flower Asset/Flower 01.png");
     background-size: cover;
 }
 
 .instagram .box-2 {
-    background-image: url("../flower-shop-resources/Flower Asset/Rectangle 4.png");
+    background-image: url("Flower Asset/Rectangle 4.png");
     background-size: cover;
 }
 
 .instagram .box-3 {
-    background-image: url("../flower-shop-resources/Flower Asset/Rectangle 5.png");
+    background-image: url("Flower Asset/Rectangle 5.png");
     background-size: cover;
 }
 
 .instagram .box-4 {
-    background-image: url("../flower-shop-resources/Flower Asset/Rectangle 6.png");
+    background-image: url("Flower Asset/Rectangle 6.png");
     background-size: cover;
 }
 
@@ -257,7 +257,7 @@ span {
 
 .deals-content {
     width: 75%;
-    background-image: url("../flower-shop-resources/Flower Asset/Rectangle 9.png");
+    background-image: url("Flower Asset/Rectangle 9.png");
     background-size: cover;
     margin: 0 auto 80px;
     height: 300px;
